@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90b7f1f2-eba8-406d-be55-d30afde76aa0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="270A9nchyweAHuYlLVu1axSW2oa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ableitrechner\graphen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DepthFirstSearch">
+    <configuration name="DepthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.jpp.algorithm.DepthFirstSearch" />
+      <module name="graphen.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.jpp.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.jpp.algorithm.DijkstraSearch" />
+      <module name="graphen.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.jpp.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.jpp.maze.MazeImpl" />
+      <module name="graphen.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.jpp.maze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.jpp.maze.MazeRandom" />
+      <module name="graphen.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.jpp.maze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getAStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.jpp.algorithm.getAStar" />
+      <module name="graphen.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.jpp.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.getAStar" />
+        <item itemvalue="Application.MazeRandom" />
+        <item itemvalue="Application.MazeImpl" />
+        <item itemvalue="Application.DepthFirstSearch" />
+        <item itemvalue="Application.DijkstraSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\janst\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Ableitrechner\graphen" />
+          <option name="myCopyRoot" value="D:\Ableitrechner\graphen" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Ableitrechner\graphen" />
+          <option name="myCopyRoot" value="D:\Ableitrechner\graphen" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b7f1f2-eba8-406d-be55-d30afde76aa0" name="Changes" comment="" />
+      <created>1648446482626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648446482626</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Util122">
+      <created>1649101779902</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1649101779902</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Util123">
+      <created>1649137820839</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1649137820839</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Util124">
+      <created>1649140260489</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1649140260489</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Util125">
+      <created>1649140435531</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1649140435531</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Util126">
+      <created>1649141761917</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1649141761917</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Util127">
+      <created>1649144510958</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1649144510958</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Util128">
+      <created>1649159755168</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1649159755168</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Util129">
+      <created>1649161430613</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1649161430613</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Util130">
+      <created>1649165304277</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1649165304277</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Util131">
+      <created>1649168355955</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1649168355955</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Util132">
+      <created>1649168494227</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1649168494228</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Util133">
+      <created>1649168969185</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1649168969186</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Util134">
+      <created>1649169841963</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1649169841964</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Util135">
+      <created>1649179663170</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1649179663170</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Util136">
+      <created>1649181173632</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1649181173633</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Util137">
+      <created>1649182819253</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1649182819253</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Util138">
+      <created>1649190382712</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1649190382712</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Util139">
+      <created>1649192873842</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1649192873842</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Util140">
+      <created>1649194001499</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1649194001499</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Util141">
+      <created>1649196076182</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1649196076183</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Util142">
+      <created>1649225175751</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1649225175751</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Util143">
+      <created>1649227456376</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1649227456376</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Util144">
+      <created>1649235455966</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1649235455966</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Util145">
+      <created>1649235767771</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1649235767771</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Util146">
+      <created>1649237900440</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1649237900440</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Util147">
+      <created>1649247314616</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1649247314616</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Util148">
+      <created>1649247779310</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1649247779310</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Util149">
+      <created>1649250183582</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1649250183582</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Util150">
+      <created>1649251424593</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1649251424593</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Util151">
+      <created>1649251819373</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1649251819374</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Util152">
+      <created>1649253152339</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1649253152339</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Util153">
+      <created>1649254086935</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1649254086935</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Util154">
+      <created>1649254960708</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1649254960708</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Util155">
+      <created>1649264439520</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1649264439520</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Util156">
+      <created>1649276015682</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1649276015682</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Util157">
+      <created>1649280895959</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1649280895959</updated>
+    </task>
+    <task id="LOCAL-00158" summary="Util158">
+      <created>1649281220958</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1649281220958</updated>
+    </task>
+    <task id="LOCAL-00159" summary="Util159">
+      <created>1649283551029</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1649283551029</updated>
+    </task>
+    <task id="LOCAL-00160" summary="Util160">
+      <created>1649283944760</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1649283944760</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Util161">
+      <created>1649285673382</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1649285673382</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Util162">
+      <created>1649286264374</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1649286264374</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Util163">
+      <created>1649338487494</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1649338487495</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Util164">
+      <created>1649338692733</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1649338692733</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Util165">
+      <created>1649338838147</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1649338838147</updated>
+    </task>
+    <task id="LOCAL-00166" summary="Util166">
+      <created>1649339756724</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1649339756724</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Util167">
+      <created>1649340793597</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1649340793605</updated>
+    </task>
+    <task id="LOCAL-00168" summary="Util168">
+      <created>1649340917059</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1649340917059</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Util169">
+      <created>1649341436437</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1649341436437</updated>
+    </task>
+    <task id="LOCAL-00170" summary="Util170">
+      <created>1649343262416</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1649343262416</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Util146" />
+    <MESSAGE value="Util147" />
+    <MESSAGE value="Util148" />
+    <MESSAGE value="Util149" />
+    <MESSAGE value="Util150" />
+    <MESSAGE value="Util151" />
+    <MESSAGE value="Util152" />
+    <MESSAGE value="Util153" />
+    <MESSAGE value="Util154" />
+    <MESSAGE value="Util155" />
+    <MESSAGE value="Util156" />
+    <MESSAGE value="Util157" />
+    <MESSAGE value="Util158" />
+    <MESSAGE value="Util159" />
+    <MESSAGE value="Util160" />
+    <MESSAGE value="Util161" />
+    <MESSAGE value="Util162" />
+    <MESSAGE value="Util163" />
+    <MESSAGE value="Util164" />
+    <MESSAGE value="Util165" />
+    <MESSAGE value="Util166" />
+    <MESSAGE value="Util167" />
+    <MESSAGE value="Util168" />
+    <MESSAGE value="Util169" />
+    <MESSAGE value="Util170" />
+    <option name="LAST_COMMIT_MESSAGE" value="Util170" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/model/GraphImpl.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/model/GraphImpl.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/model/GraphImpl.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/model/GraphImpl.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/model/GraphImpl.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/TwoDimGraphGxlWriter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/TwoDimGraphDotIO.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/LabelMapGraphReader.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/TwoDimGraphGxlReader.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/TwoDimImgReader.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/TwoDimImgReader.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/GxlReaderTemplate.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/io/interfaces/LabelMapGraphWriter.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DepthFirstSearch.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DijkstraSearch.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/BreadthFirstSearch.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/BreadthFirstSearch.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/maze/MazeImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DijkstraSearch.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DepthFirstSearch.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/maze/MazeRandom.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/getAStar.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DepthFirstSearch.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/de/jpp/algorithm/DepthFirstSearch.java</url>
+          <line>69</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="de.jpp.maze.MazeRandom" memberName="width" />
+        <PinnedItemInfo parentTag="de.jpp.maze.MazeImpl" memberName="nodeid" />
+        <PinnedItemInfo parentTag="de.jpp.algorithm.SearchResultImpl" memberName="onOpen" />
+        <PinnedItemInfo parentTag="com.sun.org.apache.xerces.internal.dom.DeferredDocumentImpl" memberName="fNodeCount" />
+        <PinnedItemInfo parentTag="de.jpp.maze.MazeImpl" memberName="isActivemapH" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="element.content.get(4)" />
+        <watch expression="graph" />
+        <watch expression="twoDimGraph" />
+        <watch expression="twoDimGraph" language="JAVA" />
+        <watch expression="((HashMap)((MazeImpl)maze).isActivemapV).entrySet().toArray()[5]" custom="de.jpp.maze.MazeImpl,java.util.HashMap" />
+        <watch expression="((HashMap)breadthFirstSearch.searchResult.infoMap).entrySet().toArray()[0]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)breadthFirstSearch.searchResult.infoMap).entrySet().toArray()[0]" custom="java.util.HashMap" />
+        <watch expression="((SearchResultImpl)result).statusMap" custom="de.jpp.algorithm.SearchResultImpl" />
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/graphen$MazeRandom.ic" NAME="MazeRandom Coverage Results" MODIFIED="1649233269945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.jpp.maze.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/graphen$MazeImpl.ic" NAME="MazeImpl Coverage Results" MODIFIED="1649168829635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.jpp.maze.*</FILTER>
+    </SUITE>
+  </component>
+</project>
